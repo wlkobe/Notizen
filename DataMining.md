@@ -39,6 +39,7 @@ https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-qiqc
 - #### Beginner Tutorial (Wichtig)
 https://www.kaggle.com/sbongo/for-beginners-tackling-toxic-using-keras
 https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+https://www.kaggle.com/sudalairajkumar/a-look-at-different-embeddings
 
 ### TMDB 5000 Movie Dataset
 https://www.kaggle.com/tmdb/tmdb-movie-metadata
