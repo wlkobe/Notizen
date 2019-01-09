@@ -1,3 +1,6 @@
+## Nature Language Process
+https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/
+
 ## Website
 https://www.kaggle.com
 
@@ -33,6 +36,9 @@ https://www.kaggle.com/c/quora-insincere-questions-classification
 https://www.kaggle.com/eligijus/rnn-spell-checker
 https://www.kaggle.com/ashishpatel26/nlp-text-analytics-solution-quora
 https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-qiqc
+- #### Beginner Tutorial (Wichtig)
+https://www.kaggle.com/sbongo/for-beginners-tackling-toxic-using-keras
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 
 ### TMDB 5000 Movie Dataset
 https://www.kaggle.com/tmdb/tmdb-movie-metadata
